@@ -1,8 +1,4 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://designerofstuff.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://designerofstuff.com/sitemap.xml
